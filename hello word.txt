@@ -1,4 +1,4 @@
-print hello word
-print hello everybody
+print hello word;
+print hello everybody;
 print('hello');
 print('hello2');
